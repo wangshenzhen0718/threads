@@ -1,4 +1,4 @@
-package com.wang.ticket03;
+package com.wang.p3_ticket;
 
 
 public class SellTicket {

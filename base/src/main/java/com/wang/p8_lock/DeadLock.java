@@ -1,4 +1,4 @@
-package com.wang.lock08;
+package com.wang.p8_lock;
 /**
  * @Author:wsz
  * @Date: 2023/1/7 22:31

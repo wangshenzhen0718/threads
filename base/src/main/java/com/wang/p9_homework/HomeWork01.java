@@ -1,4 +1,4 @@
-package com.wang.homework09;
+package com.wang.p9_homework;
 
 import java.util.Scanner;
 

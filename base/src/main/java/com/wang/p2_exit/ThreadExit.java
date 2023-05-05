@@ -1,4 +1,4 @@
-package com.wang.exit02;
+package com.wang.p2_exit;
 
 /**
  * @Author:wsz

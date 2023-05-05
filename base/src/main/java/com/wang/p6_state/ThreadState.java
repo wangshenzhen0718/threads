@@ -1,4 +1,4 @@
-package com.wang.state06;
+package com.wang.p6_state;
 
 public class ThreadState {
     public static void main(String[] args) throws InterruptedException {

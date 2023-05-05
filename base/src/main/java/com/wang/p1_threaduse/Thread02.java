@@ -1,4 +1,4 @@
-package com.wang.threaduse01;
+package com.wang.p1_threaduse;
 /**
  * @Author:wsz
  * @Date: 2023/1/2 16:48

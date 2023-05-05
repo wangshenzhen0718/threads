@@ -1,4 +1,4 @@
-package com.wang.interrupt05;
+package com.wang.p5_interrupt;
 
 /**
  * @Author:wsz

@@ -1,4 +1,4 @@
-package com.wang.method04;
+package com.wang.p4_method;
 
 /**
  * @Author:wsz

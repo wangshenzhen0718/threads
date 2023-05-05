@@ -1,4 +1,4 @@
-package com.wang.syn07;
+package com.wang.p7_syn;
 
 /**
  * @Author:wsz
